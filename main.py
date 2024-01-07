@@ -63,4 +63,3 @@ except ValueError as error:
     print(f"Enter only integer numbers, please: {error}")
 except Exception as error:
     print(f"Exception occured: {error}")
-
